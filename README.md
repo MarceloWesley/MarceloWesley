@@ -24,5 +24,4 @@
  
 </div>
 
-- 🌱 I am currently studying JAVASCRIPT
 - 📫 My Email : Marcelo_oliscott@hotmail.com 
