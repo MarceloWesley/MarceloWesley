@@ -13,8 +13,9 @@
     <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-     <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+     <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg[">
      <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+     <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
    
   </div>
 
